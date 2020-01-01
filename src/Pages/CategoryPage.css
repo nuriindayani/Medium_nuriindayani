@@ -1,0 +1,103 @@
+/*h1 {
+  font-family: "rubik mono one";
+  font-style: normal;
+  font-size: 80px;
+  font-weight: 400;
+}
+*/
+.batas {
+  background: #cde;
+  border: 25px solid #abc;
+  height: 100px;
+  margin: 25px;
+  padding: 25px;
+  width: 300px;
+}
+/*h3 {
+  margin-top: 5%;
+  font-style: "Segoe UI";
+  color: brown;
+}
+*/
+.prg {
+  font-family: "Times New Roman";
+}
+h4 {
+  text-align: center;
+  margin-top: 10%;
+}
+.bc {
+  background-color: rgb(133, 129, 133);
+}
+/*
+h4 {
+  color: cornsilk;
+}
+*/
+.kuning {
+  color: brown;
+}
+.bca {
+  background-color: rgb(241, 86, 66);
+}
+.quotes {
+  color: brown;
+  background-color: cadetblue;
+  text-align: center;
+}
+.quotes1 {
+  color: black;
+  font-size: 30px;
+  font-family: cursive;
+}
+
+.PostArticle {
+  display: flex;
+  flex-direction: column;
+}
+.prg {
+  text-align: justify;
+  margin-left: 10px;
+  font-size: 14px;
+}
+.prg8 {
+  text-align: justify;
+  margin-right: 10px;
+  font-size: 14px;
+}
+.prgg {
+  font-size: larger;
+  font-family: "Arial";
+}
+.OuterGrid {
+  display: flex;
+  flex-direction: row;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+.PostImage {
+  margin-left: 200px;
+}
+
+.OuterGrid .PostImage a img {
+  width: 250px;
+  height: 175px;
+}
+/*
+button {
+  color: green;
+  background-color: white;
+  border: 1px solid;
+  position: absolute;
+  margin-top: 27%;
+  margin-left: 40%;
+  top: 20px;
+  width: 100px;
+  height: 40px;
+}*/
+.ScrollMenu {
+  font-size: 16px;
+}
